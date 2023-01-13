@@ -10,7 +10,7 @@ h1, h2, h3{font-family: 'Alexandria', sans-serif; margin: 0; text-align: center;
 #menu {  
     padding: 20px;
     height: 100vh;
-    background-image: url(/assets/images/main_background.jpg);
+    background-image: url(/images/main_background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 
@@ -92,19 +92,19 @@ h1{
 }
 
 #menu .about-tile .back{
-    background-image: url(/assets/images/about.jpg); 
+    background-image: url(/images/about.jpg); 
 }
 
 #menu .contact-tile .back{
-    background-image: url(/assets/images/contacto.jpg);
+    background-image: url(/images/contacto.jpg);
 }
 
 #menu .news-tile .back{
-    background-image: url(/assets/images/news.jpg);
+    background-image: url(/images/news.jpg);
 }
 
 #menu .tourism-tile .back{
-    background-image: url(/assets/images/turismo09.jpg);
+    background-image: url(/images/turismo09.jpg);
 }
 
 /*  *ABOUT   */
@@ -182,7 +182,7 @@ h1{
     padding: 20px;
     color: rgb(0, 0, 0);
     font-size: 20px;
-    background-image: url(/assets/images/turismo12.jpg);
+    background-image: url(/images/turismo12.jpg);
 }
 
 .main-photo h3{
@@ -198,17 +198,17 @@ h1{
     border-radius: 8px;
 }
 
-.photo-1 { grid-area: photo-1; background-image: url(/assets/images/turismo00.jpg);}
-.photo-2 { grid-area: photo-2; background-image: url(/assets/images/turismo01.jpg);}
-.photo-3 { grid-area: photo-3; background-image: url(/assets/images/turismo02.jpg);}
-.photo-4 { grid-area: photo-4; background-image: url(/assets/images/turismo03.jpg);}
-.photo-5 { grid-area: photo-5; background-image: url(/assets/images/turismo04.jpg);}
-.photo-6 { grid-area: photo-6; background-image: url(/assets/images/turismo05.jpg);}
-.photo-7 { grid-area: photo-7; background-image: url(/assets/images/turismo06.jpg);}
-.photo-8 { grid-area: photo-8; background-image: url(/assets/images/turismo07.jpg);}
-.photo-9 { grid-area: photo-9; background-image: url(/assets/images/turismo08.jpg);}
-.photo-10 { grid-area: photo-10; background-image: url(/assets/images/turismo10.png);}
-.photo-11 { grid-area: photo-11; background-image: url(/assets/images/turismo11.jpg);}
+.photo-1 { grid-area: photo-1; background-image: url(/images/turismo00.jpg);}
+.photo-2 { grid-area: photo-2; background-image: url(/images/turismo01.jpg);}
+.photo-3 { grid-area: photo-3; background-image: url(/images/turismo02.jpg);}
+.photo-4 { grid-area: photo-4; background-image: url(/images/turismo03.jpg);}
+.photo-5 { grid-area: photo-5; background-image: url(/images/turismo04.jpg);}
+.photo-6 { grid-area: photo-6; background-image: url(/images/turismo05.jpg);}
+.photo-7 { grid-area: photo-7; background-image: url(/images/turismo06.jpg);}
+.photo-8 { grid-area: photo-8; background-image: url(/images/turismo07.jpg);}
+.photo-9 { grid-area: photo-9; background-image: url(/images/turismo08.jpg);}
+.photo-10 { grid-area: photo-10; background-image: url(/images/turismo10.png);}
+.photo-11 { grid-area: photo-11; background-image: url(/images/turismo11.jpg);}
 
 #tourism .tile{
     border-radius: 10px;
@@ -273,27 +273,27 @@ h1{
 }
 
 #news .new.new-1{
-    background-image: url(/assets/images/fact01.jpg);
+    background-image: url(/images/fact01.jpg);
 }
 
 #news .new.new-2{
-    background-image: url(/assets/images/fact02.jpg);
+    background-image: url(/images/fact02.jpg);
 }
 
 #news .new.new-3{
-    background-image: url(/assets/images/fact03.jpg);
+    background-image: url(/images/fact03.jpg);
 }
 
 #news .new.new-4{
-    background-image: url(/assets/images/fact04.jpg);
+    background-image: url(/images/fact04.jpg);
 }
 
 #news .new.new-5{
-    background-image: url(/assets/images/fact05.jpg);
+    background-image: url(/images/fact05.jpg);
 }
 
 #news .new.new-6{
-    background-image: url(/assets/images/fact06.jpg);
+    background-image: url(/images/fact06.jpg);
 }
 
 /*  *CONTACT  */
